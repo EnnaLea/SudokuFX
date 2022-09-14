@@ -1,4 +1,4 @@
-package SudokuDeskApp;
+package sudoku;
 
 public class Controller {
     
